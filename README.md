@@ -1,2 +1,4 @@
 <img width="586" height="635" alt="Screenshot 2026-09-16 142354" src="https://github.com/user-attachments/assets/acf1896f-861c-4c90-9104-38cadfc921ae" />
+
+
 In this project we created steel bar wrapping device for "Ette plan" . The goal of our project is to create a safe and efficient way to package large steel elements used in industrial environments. These steel elements must be protected from rain, moisture, dirt, and damage during transportation and storage
